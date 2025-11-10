@@ -14,7 +14,7 @@
 ## 🌍 About IYII BOT
 
 **IYII BOT** is a powerful and flexible **WhatsApp automation bot** built to simplify your daily tasks, enhance productivity, and keep your chats fun and interactive.  
-Developed using **Node.js** and the **Baileys** library, it provides a smooth, efficient, and reliable automation experience.  
+Developed with pure **Javascript**, it provides a smooth, efficient, and reliable automation experience.  
 
 💡 Whether you’re handling group management, fetching media, automating replies, or integrating APIs — **IYII BOT** is your all-in-one digital companion.
 
